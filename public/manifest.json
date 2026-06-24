@@ -1,0 +1,16 @@
+{
+  "name": "Vozi.hr",
+  "short_name": "Vozi.hr",
+  "description": "Hrvatska tržnica vozila",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2952e3",
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
